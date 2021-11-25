@@ -1,0 +1,12 @@
+.btn{
+    background-color: #172b4d;
+    border: #172b4d;
+}
+
+ .navbar{
+    background: linear-gradient(to left, #172b4d , transparent);
+} 
+
+.navbar-brand{
+    padding: 5px;
+}

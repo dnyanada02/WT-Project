@@ -1,0 +1,248 @@
+{
+  "userprofile": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "username": "bvn vb",
+      "email": "",
+      "fname": "nbm",
+      "lname": "mbm",
+      "add": "bnm",
+      "city": "cjhcjs",
+      "country": "shdsj",
+      "pcode": 44,
+      "vno": "48",
+      "lno": "877",
+      "ano": "478892"
+    },
+    {
+      "id": 3,
+      "username": "",
+      "email": "",
+      "fname": "",
+      "lname": "",
+      "add": "",
+      "city": "",
+      "country": "",
+      "pcode": "",
+      "vno": "",
+      "lno": "",
+      "ano": ""
+    },
+    {
+      "id": 4,
+      "username": "dnyanada",
+      "email": "",
+      "fname": "dnyanada",
+      "lname": "mahajan",
+      "add": "Xyz building",
+      "city": "pune",
+      "country": "India",
+      "pcode": 41254,
+      "vno": "G45466",
+      "lno": "D7894",
+      "ano": "1254 3652 4785"
+    }
+  ],
+  "havaldarprofile": [
+    {
+      "id": 1,
+      "username": "",
+      "email": "",
+      "fname": "",
+      "lname": "",
+      "add": "",
+      "city": "",
+      "country": "",
+      "pcode": "",
+      "hid": "",
+      "ano": ""
+    }
+  ],
+  "addfine": [
+    {
+      "id": 1,
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "pno": "741258963",
+      "vno": "MH 18 5478",
+      "lno": "H7895",
+      "date": "12-1-2021",
+      "rule": "over speeding",
+      "fine": "500"
+    },
+    {
+      "id": 2,
+      "name": "john",
+      "email": "john@gmail.com",
+      "pno": "7854123690",
+      "vno": "MH12 7845",
+      "lno": "D874596",
+      "date": "25-11-2021",
+      "rule": "no parking",
+      "fine": "1000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "userlogin": [
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "fullname": null,
+      "email": null,
+      "password": null,
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "fullname": null,
+      "email": null,
+      "password": null,
+      "id": 4
+    },
+    {
+      "fullname": null,
+      "email": null,
+      "password": null,
+      "id": 5
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "fullname": "adS",
+      "email": "dxdfg",
+      "password": "xxbfb",
+      "id": 8
+    },
+    {
+      "fullname": "nandini",
+      "email": "nandini@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "fullname": null,
+      "email": null,
+      "password": null,
+      "id": 10
+    },
+    {
+      "fullname": null,
+      "email": null,
+      "password": null,
+      "id": 11
+    },
+    {
+      "fullname": "nandini",
+      "email": "nandini@gmail.com",
+      "password": "123",
+      "id": 12
+    },
+    {
+      "fullname": "dnyanada",
+      "email": "dnyanada@gmail.com",
+      "password": "hgjah",
+      "id": 13
+    },
+    {
+      "fullname": "adS",
+      "email": "dnyanada02@gmail.com",
+      "password": "dzf",
+      "id": 14
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 19
+    }
+  ],
+  "havaldarlogin": [
+    {
+      "fullname": "adS",
+      "email": "dnyanada02@gmail.com",
+      "password": "sjhs",
+      "id": 1
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "fullname": "dnyanada",
+      "email": "dnyanada@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,39 @@
+<nav class="navbar" class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">TRAFFIC</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" [routerLink] ="['../homepage']">Home <span class="sr-only"></span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" [routerLink] ="['../newspage']">News</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" [routerLink] ="['../trafficrules']">Rules</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink] ="['../faqpage']">FAQs</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink] ="['../contact']">Contact us</a>
+          </li>
+      </ul>
+
+       
+      <form class="form-inline">
+        <button class="btn" class="btn  btn-danger btn-sm my-2 my-sm-0" type="submit" [routerLink] ="['../choicelogin']" >Login</button>
+      </form> 
+
+    </div>
+  </nav>  
+
+
+
+
+
+
+<router-outlet></router-outlet>
